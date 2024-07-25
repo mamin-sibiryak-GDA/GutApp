@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GutApp</string>
+
+    <string-array name="notes">
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+    </string-array>
+    <string-array name="chords">
+        <item>min</item>
+        <item>maj</item>
+    </string-array>
+    <string-array name="pentas">
+        <item>Поз. 1</item>
+        <item>Поз. 2</item>
+        <item>Поз. 3</item>
+        <item>Поз. 4</item>
+        <item>Поз. 5</item>
+    </string-array>
+    <string-array name="met1">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="met2">
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+
+    </string-array>
+</resources>
